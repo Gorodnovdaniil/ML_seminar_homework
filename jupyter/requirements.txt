@@ -1,0 +1,7 @@
+psycopg2-binary==2.9.9
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+boto3
